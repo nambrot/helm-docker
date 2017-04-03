@@ -1,6 +1,6 @@
 # helm-docker
 
-Helm 2.0.0-alpha.3 and gcloud / kubectl
+Helm 2.2.3 and gcloud / kubectl
 
 ## Usage
 
