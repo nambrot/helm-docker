@@ -2,7 +2,7 @@ FROM google/cloud-sdk
 
 MAINTAINER Nam Chu Hoai <nambrot@gmail.com>
 
-ENV VERSION v2.2.3
+ENV VERSION v2.6.1
 ENV FILENAME helm-${VERSION}-linux-amd64.tar.gz
 
 WORKDIR /
